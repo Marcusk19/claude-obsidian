@@ -1,3 +1,5 @@
+> **Archived:** This repository has been superseded by [obsidian-agent-tools](https://github.com/Marcusk19/obsidian-agent-tools), a generalized integration for Claude Code, Pi, and other agent harnesses. New development and installation instructions are in the new repository.
+
 # claude-obsidian
 
 An MCP server that gives [Claude Code](https://docs.anthropic.com/en/docs/claude-code) full access to your [Obsidian](https://obsidian.md) vault through Obsidian's built-in CLI.
